@@ -8,9 +8,9 @@ Quais são os objetivos do Projeto
 
 Repositório de dados utilizado
 - Para gerar bom proveito do projeto, foi-se utilizado diversos bibliotecas e bases de dados fundamentais para o seu desenvolvimento. Os principais utilizados foram os seguintes:
-  . Dash
-  . Plotly
-  . Matplotlib
-  . Pandas
+  Dash;
+  Plotly;
+  Matplotlib;
+  Pandas.
 
   Para este projeto, foi utilizado o repositório de dados sobre a quantidade de empregos do linkedin, na área de tecnologia, o quão são abertos e podem ser consultados pelo seguinte endereço: https://www.kaggle.com/datasets/joebeachcapital/linkedin-jobs  
